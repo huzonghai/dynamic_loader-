@@ -1,0 +1,3 @@
+include ':app',
+        ':sdk_dex',
+        ':sdk_host'

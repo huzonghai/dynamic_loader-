@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/air_mobyte_sdk_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/airmobyte" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/alert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cknotdisplayed-v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpc.m/alert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpc.m/sdk.offer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpc.m/sdk.offer.gn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpc.m/sdk.pullLive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpc.m/sdk.sub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpc.m/sdk.web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpc.m/sdk.web.hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpc.m/sdk.yahoo.news" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpi/cpsoffer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpi/sdk.amazon.cpi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpi/sdk.cast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpi/sdk.ut" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpsoffer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guard_airmobyte" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/json.qmappu-ver3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/json.tanchuang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mediation/air_mobyte_sdk_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mediation/airmobyte" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mediation/sdk.fake.fb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mediation/sdk.fake.fb.apk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mediation/sdk.fake.unity-ads" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mediation/sdk.fb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mediation/sdk.unity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk..facebook.count" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.amazon.cpi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.cast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.fake.fb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.fake.fb.apk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.fake.unity-ads" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.fb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.icon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.noIconApk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.notification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.offer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.offer.gn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.pullLive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.shell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.sub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.unity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.ut" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.web.hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sdk.yahoo.news" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell/cknotdisplayed-v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell/guard_airmobyte" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell/sdk..facebook.count" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell/sdk.icon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell/sdk.noIconApk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell/sdk.notification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell/sdk.security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell/sdk.shell" vcs="Git" />
+  </component>
+</project>
