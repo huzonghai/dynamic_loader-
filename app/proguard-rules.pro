@@ -20,26 +20,3 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
-
-#youappiSDK
--dontskipnonpubliclibraryclassmembers
--keep class android.support.annotation.**{ *;}
--keep class com.google.gson.**{ *;}
--keep class com.google.android.gms.**{*;}
--keep class com.youappi.sdk.**{*;}
--keep interface com.youappi.sdk.**{*;}
--keep enum com.youappi.sdk.**{*;}
--keepclassmembers class * {
-   @android.webkit.JavascriptInterface <methods>;
-}
--keep class com.ai.**{ *;}
--keep class com.iab.**{ *;}
-#youappiSDK
-
-
--keepattributes *Annotation*
--dontwarn ihzt.ugl.kqpqe.**
--dontwarn snpf.xsy.sjblc.**
--keep class ihzt.ugl.kqpqe.**{*;}
--keep class snpf.xsy.sjblc.**{*;}
--keep class com.ijwqer.rar.** {*;}

@@ -32,31 +32,4 @@ repositories {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.android.support:appcompat-v7:22.2.1'
-
-//    implementation project(':air_mobyte_sdk')
-//    implementation project(':alert_host_SL_act')
-//    implementation project(':alert')
-//    implementation project(':sdk.web')
-//    implementation project(':sdk.offer')
-//    implementation project(':cpc.m:sdk.yahoo.news')
-//    implementation project(':mediation:sdk.fake.unity-ads')
-//    implementation project(':mediation:sdk.fake.fb')
-//    implementation project(':mediation:sdk.fake.fb.apk')
-//    implementation project(':sdk.amazon.cpi')
-//    implementation project(':sdk.offer.gn')
-//    implementation project(':shell:sdk.shell')
-//    implementation project(':test_dex')
-//    implementation project(':shell:sdk.jar.out.pro')
-//    implementation project(':cpc.m:sdk.sub')
-//    implementation project(':sdk.pullLive')
-//    implementation project(':sdk.notification')
-//    implementation project(':guard_airmobyte')
-//    implementation project(':cpsoffer')
-//    implementation project(':youappi')
-//    implementation name:'McuSdk_920_1', ext:'aar'
-//    implementation name:'app-debug', ext:'aar'
-//    implementation name:'sdkPro', ext:'aar'
-//    implementation 'com.google.code.gson:gson:2.6'
-//    implementation 'com.google.android.gms:pl
-//    ay-services-ads-identifier:16.0.0'
 }
